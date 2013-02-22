@@ -1,14 +1,12 @@
 # Maze Generation
-
 This Clojure project is based on an example as found in the Clojure Programming
 book.
-Stolen and readapted from https://gist.github.com/cgrand/792959
+
 
 ## Usage
+`lein test` to run tests
 
-lein run -m maze.graphic
-lein test
+`lein run -m maze.graphic` to render the maze
 
 ## License
-
-Copyright © 2013 Arnaud Brousseau.
+Stolen and readapted from https://gist.github.com/cgrand/792959
